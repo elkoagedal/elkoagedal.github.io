@@ -1,0 +1,26 @@
+- name: Usdan
+  url: https://www.usdan.org/
+  code: https://github.com/hackNY-labs-2018/usdan
+  description: Predicted enrollment trends for Usdan Summer Camp for the Arts using enrollment numbers from data ranging from 2009-2018. Created a UI where people can select criteria and pull up relevant data as well as a visualization to demonstrate key findings to the Usdan executive board.
+  used:
+    - thing: Pandas
+    - thing: Python
+
+- name: Shindig
+  code: https://github.com/elkoagedal/Shindig
+  description: Developed an iOS application  in a group of three. Using Swift, this app makes planning get togethers (dinner parties, barbeques, ect.) with friends a lot easier so it is not all on the host to plan and pay for everything.
+  used:
+    - thing: Swift
+    - thing: Xcode
+    - thing: Firebase
+    - thing: Realm
+
+- name: Convo
+  code: https://github.com/bchiang7/CS3200-Project
+  description: An iOS application and Apple Watch app in Swift that prompts you with conversation starters (news, icebreakers, excuses) to combat awkward silence or help you get you out of an awkward
+situation.
+  used:
+    - thing: Swift
+    - thing: Xcode
+    - thing: Watchkit Extension
+    - thing: Firebase

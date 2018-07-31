@@ -1,0 +1,21 @@
+languages/libraries:
+  - item: Python
+  - item: Java
+  - item: Swift
+  - item: SQL
+  - item: Python
+  - item: SQL
+  - item: Pandas
+
+tools, API's, and Other:
+  - item: Xcode
+  - item: Git & Github
+  - item: Interface Builder
+  - item: Firebase API
+  - item: Realm API
+  - item: Postman
+
+design:
+  - item: Photoshop
+  - item: Wireframing
+  - item: User Testing
