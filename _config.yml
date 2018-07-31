@@ -1,26 +1,21 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+name: Emily Koagedal
+title: Emily Koagedal | Software Engineer
+description: Technology + Design Innovator
 baseurl: ""
-email: brittany.chiang@gmail.com
-cover: https://brittanychiang.com/img/og.png
-logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: https://brittanychiang.com/resume.pdf
+email: elkoagedal@berkeley.edu
+# cover: https://brittanychiang.com/img/og.png
+logo: https://elkoagedal.github.io/img/emojis/technologist.png
+resume: https://elkoagedal.github.io/CurrentResume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
+    url: elkoagedal@berkeley.edu
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://instagram.com/koags
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/elkoagedal
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/EmilyKoagedal
 
 # Build settings
 markdown: kramdown
