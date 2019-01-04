@@ -19,6 +19,7 @@
     color: #f25a78;
   }
 
-  .container-fluid {
+  .navbar-name {
     text-align: center;
+    font-family: 'Roboto Mono';
   }
