@@ -14,14 +14,26 @@
   .intro {
     font-size: 40px;
   }
+
   .description {
     font-size: 20px;
     color: #f25a78;
   }
 
+  .navbar-container {
+    background-color: #F7F7F9;
+    width: 100%;
+
+  }
+
   .navbar-name {
-    text-align: center;
+    text-align: left;
     font-family: 'Roboto Mono';
-    background-color: #B66D6B;
-    color: #ffffff
+    position: absolute;
+    /* padding-top: 5px; */
+  }
+  .navbar-menu {
+    text-align: right;
+    font-family: 'Roboto Mono';
+    padding-right: 5px;
   }
