@@ -39,6 +39,42 @@
   }
 
   .hi-section {
+      background-image: url(../images/cover-photo.jpg);
+      width: 100%;
+      height: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      min-height:570px;
+      z-index: 2;
+      position: relative;
+
+  }
+
+  .title-container {
+    height:40%;
     width: 100%;
-    height: 25%;
+    max-width: 1000px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .hello-box {
+    width=100%;
+  }
+
+  .hello-textbox {
+    position: relative;
+    width: 100%;
+    left:30%;
+    transform: translateX(-50%);
+  }
+
+  .hello {
+    font-size:6vw;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Roboto Mono'; 
+    line-height:0.5;
   }
